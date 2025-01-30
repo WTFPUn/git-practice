@@ -1,1 +1,2 @@
-eiei
+"Project Outline: Machine Learning"
+Added initial project goals and scope
